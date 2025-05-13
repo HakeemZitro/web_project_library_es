@@ -148,8 +148,9 @@
 .card__text {
   margin: 20px 0 0;
   font-size: 16px;
-  line-height: 16px;
-  display: contents; /*Gracias por el feeback y las recomendaciónes de UX/UI, las tendre en consideración en futuros proyectos.*/
+  line-height: 24px;
+  display: contents;
+  /*Gracias por el feeback y las recomendaciónes de UX/UI, las tendre en consideración en futuros proyectos. Aun asi quite un poco de texto porque en mi pantalla se seguia desbordando por el line-height tan grande.*/
 }
 
 .card__footer {
